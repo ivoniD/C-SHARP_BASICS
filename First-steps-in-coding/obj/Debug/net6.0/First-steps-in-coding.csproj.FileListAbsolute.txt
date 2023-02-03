@@ -1,5 +1,0 @@
-D:\1. SCHOOL\_EX\C-Sharp-Basics\First-steps-in-coding\First-steps-in-coding\First-steps-in-coding\obj\Debug\net6.0\First-steps-in-coding.csproj.AssemblyReference.cache
-D:\1. SCHOOL\_EX\C-Sharp-Basics\First-steps-in-coding\First-steps-in-coding\First-steps-in-coding\obj\Debug\net6.0\First-steps-in-coding.GeneratedMSBuildEditorConfig.editorconfig
-D:\1. SCHOOL\_EX\C-Sharp-Basics\First-steps-in-coding\First-steps-in-coding\First-steps-in-coding\obj\Debug\net6.0\First-steps-in-coding.AssemblyInfoInputs.cache
-D:\1. SCHOOL\_EX\C-Sharp-Basics\First-steps-in-coding\First-steps-in-coding\First-steps-in-coding\obj\Debug\net6.0\First-steps-in-coding.AssemblyInfo.cs
-D:\1. SCHOOL\_EX\C-Sharp-Basics\First-steps-in-coding\First-steps-in-coding\First-steps-in-coding\obj\Debug\net6.0\First-steps-in-coding.csproj.CoreCompileInputs.cache
